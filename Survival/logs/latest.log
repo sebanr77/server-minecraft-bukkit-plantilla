@@ -1,0 +1,228 @@
+[18:50:44] [ServerMain/INFO]: Building unoptimized datafixer
+[18:50:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:51:15] [ServerMain/INFO]: Loaded 7 recipes
+[18:51:17] [Server thread/INFO]: Starting minecraft server version 1.19
+[18:51:18] [Server thread/INFO]: Loading properties
+[18:51:18] [Server thread/INFO]: This server is running Paper version git-Paper-43 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 9d0650e)
+[18:51:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:51:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:51:20] [Server thread/INFO]: Default game type: SURVIVAL
+[18:51:20] [Server thread/INFO]: Generating keypair
+[18:51:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:51:21] [Server thread/INFO]: Using default channel type
+[18:51:21] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[18:51:21] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[18:51:22] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_19_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18:51:33] [Server thread/WARN]: Legacy plugin TPA v2.2.2 does not specify an api-version.
+[18:51:33] [Server thread/INFO]: [SetHomes] Loading SetHomes v1.3.0
+[18:51:33] [Server thread/INFO]: [TPA] Loading TPA v2.2.2
+[18:51:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:51:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:51:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:51:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:51:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:51:33] [Server thread/INFO]: Preparing level "world"
+[18:52:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:52:36] [Server thread/INFO]: Time elapsed: 735 ms
+[18:52:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:52:36] [Server thread/INFO]: Time elapsed: 166 ms
+[18:52:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:52:37] [Server thread/INFO]: Time elapsed: 154 ms
+[18:52:37] [Server thread/INFO]: [SetHomes] Enabling SetHomes v1.3.0
+[18:52:38] [Server thread/INFO]: [SetHomes] Luck perms was not found! Reverting to vault...
+[18:52:38] [Server thread/INFO]: [SetHomes] Vault was not found.
+[18:52:38] [Server thread/WARN]: [SetHomes] Could not connect to a permissions plugin! Config setting "max-homes" will be ignored!
+[18:52:38] [Server thread/INFO]: [TPA] Enabling TPA v2.2.2*
+[18:52:39] [Server thread/INFO]: Running delayed init tasks
+[18:52:39] [Server thread/INFO]: Done (81.664s)! For help, type "help"
+[18:52:39] [Server thread/INFO]: Timings Reset
+[18:53:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:53:29] [Server thread/INFO]: time<--[HERE]
+[18:54:08] [User Authenticator #1/INFO]: UUID of player Renatox0404 is bee7ace5-a12e-3ca0-8574-7505972868e2
+[18:54:08] [Server thread/INFO]: Renatox0404 joined the game
+[18:54:08] [Server thread/INFO]: Renatox0404[/[0:0:0:0:0:0:0:1]:65392] logged in with entity id 107 at ([world]-3.5, 65.0, -9.5)
+[18:56:04] [Server thread/INFO]: Renatox0404 has made the advancement [Stone Age]
+[18:56:14] [Server thread/INFO]: Renatox0404 has made the advancement [Getting an Upgrade]
+[18:57:43] [Server thread/WARN]: Renatox0404 moved too quickly! 11.400418350233878,-1.7461092740512356,2.9128584766275196
+[18:59:01] [Server thread/WARN]: Renatox0404 moved too quickly! 11.335361509378941,-4.580000013113022,4.533312047785913
+[18:59:14] [Server thread/WARN]: Renatox0404 moved too quickly! 11.414328648977516,-0.604424101326714,5.892512346851504
+[19:05:56] [Server thread/INFO]: Renatox0404 has made the advancement [Monster Hunter]
+[19:07:11] [User Authenticator #2/INFO]: UUID of player seba_nr is f5abd515-4140-3f3d-b793-63a34decb5d2
+[19:07:11] [Server thread/INFO]: seba_nr joined the game
+[19:07:11] [Server thread/INFO]: seba_nr[/[0:0:0:0:0:0:0:1]:55001] logged in with entity id 4202 at ([world]37.59182152406388, 22.0, -264.6116375473815)
+[19:07:23] [Server thread/INFO]: seba_nr issued server command: /tpa Renatox0404
+[19:07:30] [Server thread/INFO]: Renatox0404 issued server command: /tpa:tpaccept
+[19:07:41] [Server thread/INFO]: seba_nr hit the ground too hard whilst trying to escape Skeleton
+[19:08:06] [Server thread/INFO]: Renatox0404 has made the advancement [Acquire Hardware]
+[19:08:34] [Server thread/INFO]: Renatox0404 has made the advancement [Not Today, Thank You]
+[19:08:44] [Server thread/INFO]: seba_nr was slain by Spider
+[19:08:47] [Server thread/INFO]: Renatox0404 has made the advancement [Isn't It Iron Pick]
+[19:09:19] [Server thread/INFO]: seba_nr issued server command: /tpa Renatox0404
+[19:09:24] [Server thread/INFO]: Renatox0404 issued server command: /tpa:tpaccept
+[19:09:54] [Server thread/INFO]: Renatox0404 lost connection: Disconnected
+[19:09:54] [Server thread/INFO]: Renatox0404 left the game
+[19:10:37] [User Authenticator #3/INFO]: UUID of player Renatox0404 is bee7ace5-a12e-3ca0-8574-7505972868e2
+[19:10:38] [Server thread/INFO]: Renatox0404 joined the game
+[19:10:38] [Server thread/INFO]: Renatox0404[/[0:0:0:0:0:0:0:1]:55011] logged in with entity id 5404 at ([world]686.9958333224058, 40.0, 285.920446754584)
+[19:11:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6147ms or 122 ticks behind
+[19:11:58] [Server thread/WARN]: Renatox0404 moved too quickly! 22.178218964080543,-4.0,9.821596470375482
+[19:15:38] [Server thread/INFO]: Renatox0404 has made the advancement [Suit Up]
+[19:19:51] [Server thread/INFO]: seba_nr has made the advancement [Acquire Hardware]
+[19:19:54] [Server thread/INFO]: seba_nr has made the advancement [Isn't It Iron Pick]
+[19:21:01] [Server thread/INFO]: seba_nr issued server command: /tpa Renatox0404
+[19:21:13] [Server thread/INFO]: Renatox0404 issued server command: /tpa:tpaccept
+[19:25:21] [Server thread/INFO]: seba_nr has made the advancement [Not Today, Thank You]
+[19:25:34] [Server thread/INFO]: seba_nr has made the advancement [Diamonds!]
+[19:26:48] [Server thread/INFO]: seba_nr issued server command: /sethome
+[19:26:55] [Server thread/INFO]: seba_nr issued server command: /tpa Renatox0404
+[19:27:06] [Server thread/INFO]: Renatox0404 issued server command: /tpa:tpaccept
+[19:28:30] [Server thread/INFO]: seba_nr issued server command: /home
+[19:29:13] [Server thread/INFO]: Renatox0404 issued server command: /tpa seba_nr
+[19:29:18] [Server thread/INFO]: seba_nr issued server command: /tpaccept
+[19:34:27] [Server thread/INFO]: Renatox0404 has made the advancement [Diamonds!]
+[19:35:23] [Server thread/INFO]: seba_nr issued server command: /save-all
+[19:35:23] [Server thread/INFO]: [seba_nr: Saved the game]
+[19:40:09] [Server thread/INFO]: seba_nr has made the advancement [Suit Up]
+[19:46:44] [Server thread/INFO]: seba_nr issued server command: /save-all
+[19:46:44] [Server thread/INFO]: [seba_nr: Saved the game]
+[19:46:48] [Server thread/INFO]: seba_nr issued server command: /tpaccept
+[19:46:50] [Server thread/INFO]: seba_nr issued server command: /save-all
+[19:46:50] [Server thread/INFO]: [seba_nr: Saved the game]
+[19:46:52] [Server thread/INFO]: seba_nr issued server command: /tpa Renatox0404
+[19:46:59] [Server thread/INFO]: Renatox0404 issued server command: /tpa:tpaccept
+[20:00:03] [Server thread/INFO]: seba_nr issued server command: /tpa Renatox0404
+[20:00:12] [Server thread/INFO]: Renatox0404 issued server command: /tpa:tpaccept
+[20:01:27] [Server thread/INFO]: seba_nr has made the advancement [Hot Stuff]
+[20:02:31] [Server thread/INFO]: seba_nr has made the advancement [Ice Bucket Challenge]
+[20:05:29] [Server thread/INFO]: seba_nr issued server command: /tpa Renatox0404
+[20:05:46] [Server thread/INFO]: Renatox0404 issued server command: /tpa:tpaccept
+[20:07:31] [Server thread/INFO]: seba_nr issued server command: /gamerule playersSleepingPercentage 1
+[20:07:31] [Server thread/INFO]: [seba_nr: Gamerule playersSleepingPercentage is now set to: 1]
+[20:07:46] [Server thread/INFO]: Renatox0404 has made the advancement [Sweet Dreams]
+[20:08:17] [Server thread/INFO]: seba_nr fell from a high place
+[20:08:34] [Server thread/INFO]: seba_nr issued server command: /tpa Renatox0404
+[20:08:44] [Server thread/INFO]: Renatox0404 issued server command: /tpa:tpaccept
+[20:12:48] [Server thread/INFO]: seba_nr issued server command: /gamemode creative
+[20:12:48] [Server thread/INFO]: [seba_nr: Set own game mode to Creative Mode]
+[20:13:54] [Server thread/WARN]: Renatox0404 moved too quickly! 5.268021433522108,-3.913905920684485,10.616785466616648
+[20:14:00] [Server thread/INFO]: seba_nr issued server command: /gamemode survival
+[20:14:00] [Server thread/INFO]: [seba_nr: Set own game mode to Survival Mode]
+[20:14:20] [Server thread/INFO]: seba_nr issued server command: /gamerule keepInventory true
+[20:14:20] [Server thread/INFO]: [seba_nr: Gamerule keepInventory is now set to: true]
+[20:26:27] [Server thread/INFO]: seba_nr lost connection: Disconnected
+[20:26:27] [Server thread/INFO]: seba_nr left the game
+[20:28:10] [User Authenticator #4/INFO]: UUID of player seba_nr is f5abd515-4140-3f3d-b793-63a34decb5d2
+[20:28:10] [Server thread/INFO]: seba_nr joined the game
+[20:28:10] [Server thread/INFO]: seba_nr[/[0:0:0:0:0:0:0:1]:59848] logged in with entity id 28447 at ([world]309.04005820101486, 61.89347059733892, 1140.3812509131137)
+[20:29:14] [Server thread/INFO]: seba_nr lost connection: Disconnected
+[20:29:14] [Server thread/INFO]: seba_nr left the game
+[20:29:59] [User Authenticator #5/INFO]: UUID of player seba_nr is f5abd515-4140-3f3d-b793-63a34decb5d2
+[20:30:00] [Server thread/INFO]: seba_nr joined the game
+[20:30:00] [Server thread/INFO]: seba_nr[/[0:0:0:0:0:0:0:1]:59870] logged in with entity id 29368 at ([world]123.18110165648807, 66.0, 1187.08070042618)
+[20:33:45] [Server thread/INFO]: seba_nr has made the advancement [Best Friends Forever]
+[20:35:58] [Server thread/INFO]: Renatox0404 lost connection: Disconnected
+[20:35:58] [Server thread/INFO]: Renatox0404 left the game
+[20:37:11] [User Authenticator #6/INFO]: UUID of player Renatox0404 is bee7ace5-a12e-3ca0-8574-7505972868e2
+[20:37:11] [Server thread/INFO]: Renatox0404 joined the game
+[20:37:11] [Server thread/INFO]: Renatox0404[/[0:0:0:0:0:0:0:1]:56582] logged in with entity id 34797 at ([world]526.9180075884922, 64.0, 1052.57732053964)
+[20:38:43] [Server thread/INFO]: seba_nr lost connection: Disconnected
+[20:38:43] [Server thread/INFO]: seba_nr left the game
+[20:39:43] [User Authenticator #7/INFO]: UUID of player seba_nr is f5abd515-4140-3f3d-b793-63a34decb5d2
+[20:39:43] [Server thread/INFO]: seba_nr joined the game
+[20:39:43] [Server thread/INFO]: seba_nr[/[0:0:0:0:0:0:0:1]:56620] logged in with entity id 35610 at ([world]356.0518714756137, 69.15742543334164, 1009.6070479376742)
+[20:42:31] [Server thread/INFO]: seba_nr issued server command: /tpa Renatox0404
+[20:42:35] [Server thread/INFO]: Renatox0404 issued server command: /tpa:tpaccept
+[20:45:35] [Server thread/INFO]: Renatox0404 has made the advancement [Ice Bucket Challenge]
+[20:47:16] [Server thread/INFO]: seba_nr lost connection: Disconnected
+[20:47:16] [Server thread/INFO]: seba_nr left the game
+[20:47:22] [Server thread/INFO]: Renatox0404 lost connection: Disconnected
+[20:47:22] [Server thread/INFO]: Renatox0404 left the game
+[20:47:57] [User Authenticator #8/INFO]: UUID of player seba_nr is f5abd515-4140-3f3d-b793-63a34decb5d2
+[20:47:57] [Server thread/INFO]: seba_nr joined the game
+[20:47:57] [Server thread/INFO]: seba_nr[/[0:0:0:0:0:0:0:1]:49888] logged in with entity id 37723 at ([world]523.5716043771909, 64.0, 1044.383277110438)
+[20:48:08] [User Authenticator #8/INFO]: UUID of player Renatox0404 is bee7ace5-a12e-3ca0-8574-7505972868e2
+[20:48:08] [Server thread/INFO]: Renatox0404 joined the game
+[20:48:09] [Server thread/INFO]: Renatox0404[/[0:0:0:0:0:0:0:1]:49893] logged in with entity id 37908 at ([world]541.0200821223423, 64.03730040963114, 1074.5896121611722)
+[20:50:46] [Server thread/INFO]: Renatox0404 issued server command: /homes
+[20:50:59] [Server thread/INFO]: Renatox0404 issued server command: /home
+[20:53:08] [Server thread/INFO]: Renatox0404 issued server command: /home Renatox0404
+[20:53:23] [Server thread/INFO]: Renatox0404 issued server command: /setho
+[20:53:41] [Server thread/INFO]: Renatox0404 issued server command: /sethomes:home
+[20:54:01] [Server thread/INFO]: Renatox0404 issued server command: /sethome R
+[20:54:05] [Server thread/INFO]: Renatox0404 issued server command: /sethome
+[20:54:09] [Server thread/INFO]: Renatox0404 issued server command: /home
+[20:57:57] [Server thread/INFO]: seba_nr lost connection: Disconnected
+[20:57:57] [Server thread/INFO]: seba_nr left the game
+[20:58:42] [User Authenticator #9/INFO]: UUID of player seba_nr is f5abd515-4140-3f3d-b793-63a34decb5d2
+[20:58:42] [Server thread/INFO]: seba_nr joined the game
+[20:58:42] [Server thread/INFO]: seba_nr[/[0:0:0:0:0:0:0:1]:51120] logged in with entity id 40219 at ([world]520.226746789543, 64.0, 1026.5016919395784)
+[21:10:18] [Server thread/INFO]: Renatox0404 issued server command: /home
+[21:15:23] [Server thread/INFO]: Renatox0404 lost connection: Disconnected
+[21:15:23] [Server thread/INFO]: Renatox0404 left the game
+[21:16:53] [User Authenticator #10/INFO]: UUID of player Renatox0404 is bee7ace5-a12e-3ca0-8574-7505972868e2
+[21:16:53] [Server thread/INFO]: Renatox0404 joined the game
+[21:16:53] [Server thread/INFO]: Renatox0404[/[0:0:0:0:0:0:0:1]:53009] logged in with entity id 45694 at ([world]524.7867134449083, 64.22020278590226, 1052.699999988079)
+[21:17:39] [Server thread/INFO]: Renatox0404 lost connection: Disconnected
+[21:17:39] [Server thread/INFO]: Renatox0404 left the game
+[21:18:17] [User Authenticator #11/INFO]: UUID of player Renatox0404 is bee7ace5-a12e-3ca0-8574-7505972868e2
+[21:18:17] [Server thread/INFO]: Renatox0404 joined the game
+[21:18:17] [Server thread/INFO]: Renatox0404[/[0:0:0:0:0:0:0:1]:53021] logged in with entity id 46052 at ([world]527.769167684626, 64.0, 1056.699999988079)
+[21:27:04] [Async Chat Thread - #0/INFO]: <seba_nr> dsokfsdopfs
+[21:37:32] [Server thread/INFO]: Renatox0404 issued server command: /home
+[21:43:41] [Server thread/INFO]: seba_nr lost connection: Disconnected
+[21:43:41] [Server thread/INFO]: seba_nr left the game
+[21:44:32] [User Authenticator #12/INFO]: UUID of player seba_nr is f5abd515-4140-3f3d-b793-63a34decb5d2
+[21:44:32] [Server thread/INFO]: seba_nr joined the game
+[21:44:32] [Server thread/INFO]: seba_nr[/[0:0:0:0:0:0:0:1]:62491] logged in with entity id 50665 at ([world]504.9717358551949, 67.0, 1044.5471827170757)
+[21:50:04] [Server thread/INFO]: seba_nr was shot by Pillager
+[21:51:46] [Server thread/INFO]: Renatox0404 issued server command: /home
+[21:52:51] [Server thread/INFO]: seba_nr issued server command: /save-all
+[21:52:52] [Server thread/INFO]: [seba_nr: Saved the game]
+[21:53:04] [Server thread/INFO]: seba_nr issued server command: /save-on
+[21:54:19] [Server thread/INFO]: seba_nr lost connection: Disconnected
+[21:54:19] [Server thread/INFO]: seba_nr left the game
+[21:55:20] [User Authenticator #13/INFO]: UUID of player seba_nr is f5abd515-4140-3f3d-b793-63a34decb5d2
+[21:55:20] [Server thread/INFO]: seba_nr joined the game
+[21:55:20] [Server thread/INFO]: seba_nr[/[0:0:0:0:0:0:0:1]:65516] logged in with entity id 52410 at ([world]541.075557651916, 64.53512866881813, 1043.68689992)
+[21:59:29] [Server thread/INFO]: Renatox0404 lost connection: Disconnected
+[21:59:29] [Server thread/INFO]: Renatox0404 left the game
+[22:00:22] [Server thread/INFO]: seba_nr has made the advancement [A Seedy Place]
+[22:08:49] [Server thread/INFO]: seba_nr lost connection: Disconnected
+[22:08:49] [Server thread/INFO]: seba_nr left the game
+[22:09:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8773ms or 175 ticks behind
+[22:09:21] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-43 (MC: 1.19) ---
+[22:09:21] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
+[22:09:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:09:21] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[22:09:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:09:21] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[22:09:21] [Paper Watchdog Thread/ERROR]: 	PID: 25 | Suspended: false | Native: false | State: TIMED_WAITING
+[22:09:21] [Paper Watchdog Thread/ERROR]: 	Stack:
+[22:09:22] [Paper Watchdog Thread/ERROR]: 		java.base@17/jdk.internal.misc.Unsafe.park(Native Method)
+[22:09:22] [Paper Watchdog Thread/ERROR]: 		java.base@17/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[22:09:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:148)
+[22:09:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:137)
+[22:09:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1306)
+[22:09:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1191)
+[22:09:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:302)
+[22:09:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$4327/0x0000000801507d00.run(Unknown Source)
+[22:09:22] [Paper Watchdog Thread/ERROR]: 		java.base@17/java.lang.Thread.run(Thread.java:833)
+[22:09:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:09:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[22:09:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[22:11:30] [Server thread/INFO]: Stopping the server
+[22:11:30] [Server thread/INFO]: Stopping server
+[22:11:31] [Server thread/INFO]: [TPA] Disabling TPA v2.2.2
+[22:11:31] [Server thread/INFO]: [SetHomes] Disabling SetHomes v1.3.0
+[22:11:31] [Server thread/INFO]: Saving players
+[22:11:31] [Server thread/INFO]: Saving worlds
+[22:11:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:13:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:13:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:14:40] [Server thread/INFO]: Flushing Chunk IO
+[22:14:40] [Server thread/INFO]: Closing Thread Pool
+[22:14:40] [Server thread/INFO]: Closing Server
